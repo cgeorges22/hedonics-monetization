@@ -1,5 +1,5 @@
 firmNum  1000
-rounds  2000
+rounds  10000
 startOutput1  1
 outputFrequency  10
 printRoundsFrequency  1000
@@ -49,4 +49,4 @@ artificialQualityDepreciationRate 0.001
 qualityConversionThreshold 5
 qualityConversionRate 0.05
 doPostRunConsumerOptimization 1
-optimRounds 2000
+optimRounds 500

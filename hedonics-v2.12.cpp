@@ -722,7 +722,13 @@ int main(int argc, char **argv) {
       }
       
     }
-    
+    // End of post-run optimization routine - record time taken in total //added 5/22/26
+    time(&endTime);
+    secs = difftime(endTime, startTime);
+    printf("Done Running Post Run Optimization. \n" ); 
+    printf("Full program took %f minutes. \n", secs/60);
+
+
     delete[] firms; //7/6/09 
     firms = NULL; //7/6/09
     
