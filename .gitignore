@@ -8,5 +8,10 @@
 *.xlsx
 *.csv
 *.rtf
-implementation*.md
+*.md
+!/README.md
 /runs/
+.DS_Store
+.RData
+.Rhistory
+hedonics
