@@ -20,6 +20,7 @@ Hedonics is a C++ simulation program that models firm dynamics in a macroeconomi
 - **v2.8-v2.9**: Migration, market tracking, and consumer/firm segmentation
 - **v2.0-v2.7**: Core features including labor accounting, complementarities, indivisibilities
 - **v1.0-v1.9**: Initial hedonic product framework and R&D modeling
+- note that **v3** is not included here as is for distributed computing on a cluster
 
 ## Building
 
