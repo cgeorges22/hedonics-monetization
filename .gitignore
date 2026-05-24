@@ -1,0 +1,12 @@
+# Output and scratch
+*.log
+*.txt
+*.pdf
+*.r
+*.R
+*.html
+*.xlsx
+*.csv
+*.rtf
+*.md
+/runs/
