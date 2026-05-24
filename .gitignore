@@ -8,5 +8,5 @@
 *.xlsx
 *.csv
 *.rtf
-*.md
+implementation*.md
 /runs/
